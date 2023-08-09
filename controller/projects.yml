@@ -1,0 +1,11 @@
+---
+controller_projects:
+ - name: AAP Config-As-Code Examples
+   organization: Default
+   scm_branch: main
+   scm_clean: 'no'
+   scm_delete_on_update: 'no'
+   scm_type: git
+   scm_update_on_launch: 'no'
+   scm_url: https://github.com/ffirg/aap-cac.git
+...

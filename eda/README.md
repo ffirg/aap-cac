@@ -1,3 +1,3 @@
-# AAP Automation Hub config-as-code
+# AAP EDA Controller config-as-code
 
-AAP hub CaC examples
+AAP EDA Controller CaC examples

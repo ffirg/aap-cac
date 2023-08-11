@@ -1,11 +1,11 @@
 ---
 controller_templates:
- - name: Demo Job Template (alter existing JT example)
+ - name: Demo Job Template
    execution_environment: Default execution environment
    instance_groups:
      - default
    inventory: Demo Inventory
- - name: Demo Job Template2 (add new JT)
+ - name: Demo Job Template2
    project: Demo Project
    playbook: hello_world.yml
    execution_environment: Minimal execution environment

@@ -1,5 +1,0 @@
----
-ah_collection_repositories:
-  - name: rh-certified
-    wait: false
-...

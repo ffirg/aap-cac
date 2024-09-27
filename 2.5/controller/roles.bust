@@ -1,0 +1,7 @@
+---
+controller_roles:
+  - team: "TeamA"
+    organization: "PhilBar Industries"
+    roles:
+      - execute
+      - read

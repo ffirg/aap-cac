@@ -1,0 +1,6 @@
+---
+eda_projects:
+  - name: Phils test EDA Project
+    description: Simple EDA examples for testing 🚀
+    url: https://github.com/ffirg/eda
+    organization_id: 2

@@ -1,7 +1,0 @@
----
-ah_namespaces:
-  - name: abc15
-    company: Redhat
-    email: user@example.com
-    avatar_url: https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg
-    description: Added as a config-as-code example

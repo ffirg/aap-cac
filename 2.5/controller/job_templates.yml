@@ -1,7 +1,0 @@
----
-controller_templates:
- - name: Demo Job Template2
-   project: Demo Project
-   playbook: hello_world.yml
-   inventory: Demo Inventory
-...
